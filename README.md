@@ -1,4 +1,3 @@
-<img width="549" height="1209" alt="image" src="https://github.com/user-attachments/assets/28a2dd1e-6e26-4f79-a5ee-34daf002e0cc" /># 첫번째 프로젝트 : To-Do List App (by Kim Gunbo)
 
 ## 📌 프로젝트 소개
 이 프로젝트는 Jetpack Compose를 사용해 제작한 간단한 **To-Do List 앱**입니다.  
