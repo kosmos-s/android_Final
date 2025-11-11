@@ -43,13 +43,13 @@
 
 ## 🧩 코드 구조
 
-app/
-├─ java/com/example/todo/
-│ └─ MainActivity.kt # 메인 앱 코드
-└─ ui/theme/
-├─ Color.kt
-├─ Theme.kt
-└─ Type.kt
+-app/
+-├─ java/com/example/todo/
+-│ └─ MainActivity.kt # 메인 앱 코드
+-└─ ui/theme/
+-├─ Color.kt
+-├─ Theme.kt
+-└─ Type.kt
 
 ---
 
