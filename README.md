@@ -34,8 +34,8 @@
 ---
 
 ## 📱 실행 화면
-<img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/5614838c-34f8-4930-ba5d-3b4d623b9e7c" />
-<img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/c57cc62e-da71-4c15-ac89-3993656cc90d" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/5614838c-34f8-4930-ba5d-3b4d623b9e7c" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/c57cc62e-da71-4c15-ac89-3993656cc90d" />
 
 ---
 
