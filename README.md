@@ -1,5 +1,4 @@
-# 첫번째 프로젝트
-# To-Do List App (by Kim Gunbo)
+# 첫번째 프로젝트 : To-Do List App (by Kim Gunbo)
 
 ## 📌 프로젝트 소개
 이 프로젝트는 Jetpack Compose를 사용해 제작한 간단한 **To-Do List 앱**입니다.  
