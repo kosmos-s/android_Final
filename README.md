@@ -1,4 +1,4 @@
-# 첫번째 프로젝트 : To-Do List App (by Kim Gunbo)
+# 첫번쨰 프로젝트 : To-Do List App (by Kim Gunbo)
 
 ## 📌 프로젝트 소개
 이 프로젝트는 Jetpack Compose를 사용해 제작한 간단한 **To-Do List 앱**입니다.  
@@ -34,22 +34,8 @@
 ---
 
 ## 📱 실행 화면
-<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/5614838c-34f8-4930-ba5d-3b4d623b9e7c" />
-<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/c57cc62e-da71-4c15-ac89-3993656cc90d" />
-
-
-
----
-
-## 🧩 코드 구조
-
-app/
-├─ java/com/example/todo/
-│ └─ MainActivity.kt # 메인 앱 코드
-└─ ui/theme/
-├─ Color.kt
-├─ Theme.kt
-└─ Type.kt
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/5614838c-34f8-4930-ba5d-3b4d623b9e7c" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/c57cc62e-da71-4c15-ac89-3993656cc90d" />
 
 ---
 
@@ -70,9 +56,73 @@ app/
 
 ## 👤 개발자
 **김건보 (Kim Gunbo)**  
-- Email:  rlarjsqh330@gmail.com
-- GitHub: [github.com/본인계정](https://github.com/)  
 
 ---
 
 © 2025 Kim Gunbo. All rights reserved.
+
+
+# 두번째 프로젝트 : Random Quote App (by Kim Geonbo)
+
+## 📌 프로젝트 소개
+이 프로젝트는 Jetpack Compose를 사용해 제작한 **명언 랜덤 앱**입니다.  
+버튼을 누를 때마다 100가지의 다양한 명언과 응원 문구가 랜덤으로 표시됩니다.  
+사용자의 이름(건보)을 포함한 문구를 통해 더욱 **개인화된 동기부여 경험**을 제공합니다.
+
+---
+
+## ⚙️ 개발 환경
+- **언어:** Kotlin  
+- **프레임워크:** Android Jetpack Compose  
+- **IDE:** Android Studio  
+- **테마:** Material 3  
+
+---
+
+## ✨ 주요 기능
+1. **랜덤 명언 출력 기능**  
+   - 버튼을 누를 때마다 100개의 명언 중 하나가 랜덤으로 표시됩니다.  
+   - 예시:  
+     > “건보야, 오늘도 화이팅! 💪”  
+     > “작은 노력의 반복이 큰 결과를 만든다.”
+
+2. **개인화된 응원 문구**  
+   - “건보”라는 이름이 포함되어 있어 친근하고 동기부여 효과가 있습니다.
+
+3. **심플하고 깔끔한 UI**  
+   - Jetpack Compose를 활용해 직관적인 화면 구성.  
+   - 상단에 제목, 중앙 명언, 하단에 버튼과 서명 표시.
+
+4. **무한 랜덤성**  
+   - 버튼 클릭 시마다 다른 명언이 등장하여 지루하지 않게 동기부여 지속.
+
+---
+
+## 📱 실행 화면
+<img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/175fb8c6-e3df-4802-a819-c566bd873e5a" />
+<img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/53edd6e4-442f-4567-9eb5-185c49d848c7" />
+
+---
+
+## 📈 개발 성과
+- Jetpack Compose의 **상태 관리 (remember, mutableStateOf)** 이해 및 적용  
+- Kotlin의 **리스트 및 Random 클래스** 활용  
+- Compose의 **Column, Text, Button, Spacer** 등을 이용한 레이아웃 구성  
+- 개인 이름 “gunbo”를 포함해 **개인화된 UX 디자인** 완성  
+
+---
+
+## 🔧 향후 개선 계획
+- 명언 데이터를 외부 JSON 파일로 분리  
+- 명언 변경 시 **애니메이션(Fade In/Out)** 추가  
+- 즐겨찾기(⭐) 기능 추가  
+- 다크모드 테마 적용  
+
+---
+
+## 👤 개발자
+**gunbo (김건보)**  
+
+---
+
+© 2025 gunbo. All rights reserved.
