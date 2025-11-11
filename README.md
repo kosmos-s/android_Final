@@ -35,8 +35,10 @@
 ---
 
 ## 📱 실행 화면
-> <img width="549" height="1222" alt="image" src="https://github.com/user-attachments/assets/cb5117dd-ce4b-453f-9fc1-d8f78df891a2" />
-  
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/5614838c-34f8-4930-ba5d-3b4d623b9e7c" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/c57cc62e-da71-4c15-ac89-3993656cc90d" />
+
+
 
 ---
 
