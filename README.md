@@ -37,20 +37,6 @@
 <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/5614838c-34f8-4930-ba5d-3b4d623b9e7c" />
 <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/c57cc62e-da71-4c15-ac89-3993656cc90d" />
 
-
-
----
-
-## 🧩 코드 구조
-
--app/
--├─ java/com/example/todo/
--│ └─ MainActivity.kt # 메인 앱 코드
--└─ ui/theme/
--├─ Color.kt
--├─ Theme.kt
--└─ Type.kt
-
 ---
 
 ## 📈 개발 성과
