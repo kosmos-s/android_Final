@@ -56,8 +56,6 @@
 
 ## 👤 개발자
 **김건보 (Kim Gunbo)**  
-- Email:  rlarjsqh330@gmail.com
-- GitHub: [github.com/본인계정](https://github.com/)  
 
 ---
 
@@ -103,3 +101,28 @@
 ## 📱 실행 화면
 <img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/175fb8c6-e3df-4802-a819-c566bd873e5a" />
 <img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/53edd6e4-442f-4567-9eb5-185c49d848c7" />
+
+---
+
+## 📈 개발 성과
+- Jetpack Compose의 **상태 관리 (remember, mutableStateOf)** 이해 및 적용  
+- Kotlin의 **리스트 및 Random 클래스** 활용  
+- Compose의 **Column, Text, Button, Spacer** 등을 이용한 레이아웃 구성  
+- 개인 이름 “gunbo”를 포함해 **개인화된 UX 디자인** 완성  
+
+---
+
+## 🔧 향후 개선 계획
+- 명언 데이터를 외부 JSON 파일로 분리  
+- 명언 변경 시 **애니메이션(Fade In/Out)** 추가  
+- 즐겨찾기(⭐) 기능 추가  
+- 다크모드 테마 적용  
+
+---
+
+## 👤 개발자
+**gunbo (김건보)**  
+
+---
+
+© 2025 gunbo. All rights reserved.
