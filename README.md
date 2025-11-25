@@ -5,6 +5,7 @@
 ![kot](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![an](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![ans](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+</div>
 
 # 첫번쨰 프로젝트 : To-Do List App (by Kim Gunbo)
 
@@ -136,4 +137,3 @@
 
 © 2025 gunbo. All rights reserved.
 
-</div>
