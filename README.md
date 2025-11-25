@@ -1,3 +1,7 @@
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=android&animation=&fontColor=ffffff&fontSize=70" />
+    </div>
+ 
 # 첫번쨰 프로젝트 : To-Do List App (by Kim Gunbo)
 
 ![git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
