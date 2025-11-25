@@ -1,6 +1,5 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=android&animation=&fontColor=ffffff&fontSize=70" />
-    </div>
  
 ![git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![kot](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
@@ -136,3 +135,5 @@
 ---
 
 © 2025 gunbo. All rights reserved.
+
+</div>
