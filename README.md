@@ -109,8 +109,8 @@
 ---
 
 ## 📱 실행 화면
-<img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/175fb8c6-e3df-4802-a819-c566bd873e5a" />
-<img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/53edd6e4-442f-4567-9eb5-185c49d848c7" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/175fb8c6-e3df-4802-a819-c566bd873e5a" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/53edd6e4-442f-4567-9eb5-185c49d848c7" />
 
 ---
 
